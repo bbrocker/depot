@@ -1,6 +1,6 @@
 == README
 
-Agile Web Dev Rails - depot - Linux - Heroku ? - all Postgres
+Agile Web Dev Rails 4 - depot - Linux - Heroku dry-fortress-5351.herokuapp.com - all Postgres
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
